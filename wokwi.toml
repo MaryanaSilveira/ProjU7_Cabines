@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/ProjU7_Cabines.uf2'
+elf = 'build/ProjU7_Cabines.elf'
